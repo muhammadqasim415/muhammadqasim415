@@ -1,9 +1,4 @@
 ## Hi there 👋
-wnload markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Muhammad Qasim</h1>
 <h3 align="center">A passionate Devops Engineer from Pakistan</h3>
 
